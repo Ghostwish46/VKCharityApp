@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Пожертвования</string>
+
+
+    <string name="action_create_donation">Создать сбор</string>
+    <string name="action_next">Далее</string>
+
+    <string name="text_no_donations">У вас пока нет сборов.\nНачните доброе дело.</string>
+
+    <string name="text_target_description">Когда есть определённая цель</string>
+    <string name="text_regular_description">Если помощь нужна ежемесячно</string>
+    <string name="text_donation_name">Название сбора</string>
+    <string name="text_donation_amount">Сумма, ₽</string>
+    <string name="text_donation_purpose">Цель</string>
+    <string name="text_donation_description">Описание</string>
+    <string name="text_donation_receiver">Куда получать деньги</string>
+    <string name="text_donation_author">Автор</string>
+    <string name="text_donation_ending_type">Сбор завершится</string>
+    <string name="text_donation_ending_amount">Когда соберём сумму</string>
+    <string name="text_donation_ending_date">В определённую дату</string>
+    <string name="text_donation_ending">Дата окончания</string>
+
+
+    <string name="hint_donation_name">Название сбора</string>
+    <string name="hint_donation_amount">Сколько нужно собрать?</string>
+    <string name="hint_donation_purpose">Например, лечение человека</string>
+    <string name="hint_donation_description">На что пойдут деньги и как они кому-то помогут?</string>
+    <string name="hint_donation_receiver">Счёт VK Pay · 1234</string>
+    <string name="hint_donation_author">Матвей Правосудов</string>
+    <string name="hint_donation_ending">Выберите дату</string>
+
+
+
+    <string name="title_target">Целевой сбор</string>
+    <string name="title_regular">Регулярный сбор</string>
+    <string name="title_donation_type">Тип сбора</string>
+    <string name="title_target_donation">Целевой сбор</string>
+
+
+
+</resources>
